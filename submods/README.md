@@ -102,3 +102,19 @@ following menus:
 This submod allows Monika to change her hairstyles, outfits, and accessories as
 she desires, fitting to the current weather and temperature (If Auto Atmos
 Change is installed) or just to the event at hand.
+
+#### [🖌️ ComfyUI](https://github.com/Friends-of-Monika/ddlc-comfy-ui)
+
+![downloads counter](https://img.shields.io/github/downloads/Friends-of-Monika/ddlc-comfy-ui/total?label=📥+downloads)
+![stars counter](https://img.shields.io/github/stars/Friends-of-Monika/ddlc-comfy-ui?label=⭐+stars)
+![release date](https://img.shields.io/github/release-date/Friends-of-Monika/ddlc-comfy-ui?label=⏳+release)
+<br>
+![user interface improvements](https://img.shields.io/badge/🖌️-UI_improvements-pink)
+![has settings](https://img.shields.io/badge/🔧-has_settings-lightgray)
+![updatable](https://img.shields.io/badge/📥-updatable-yellow)
+
+*Original submod by [Iniquitatis](https://github.com/Iniquitatis/DDLCComfyUI)
+forked and upgraded by Friends of Monika.*
+
+This submod allows you to change UI color with a handful of themes (both day and
+night UI modes) as well as adds some UI improvements.

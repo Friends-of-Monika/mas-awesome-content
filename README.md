@@ -3,8 +3,8 @@
 
 <p align="center">
     <img alt="7 contents" src="https://img.shields.io/badge/📦_Contents-7-green">
-    <img alt="4 authors" src="https://img.shields.io/badge/👥_Authors-4-blue">
-    <img alt="contributors" src="https://img.shields.io/github/contributors-anon/friends-of-monika/mas-awesome-content">
+    <img alt="4 authors" src="https://img.shields.io/badge/🧑‍🎨_Authors-4-blue">
+    <img alt="contributors" src="https://img.shields.io/github/contributors-anon/friends-of-monika/mas-awesome-content?label=👷+contributors">
 </p>
 
 <details open>

@@ -7,8 +7,7 @@
     <img alt="contributors" src="https://img.shields.io/github/contributors-anon/friends-of-monika/mas-awesome-content?label=👷+contributors">
 </p>
 
-<details open>
-<summary><h2 style="display: inline-block">🔧 Submods</h2></summary>
+## 🔧 Submods
 
 ### ⭐ Featured Submods
 
@@ -127,5 +126,3 @@ forked and upgraded by Friends of Monika.*
 
 This submod allows you to change UI color with a handful of themes (both day and
 night UI modes) as well as adds some UI improvements.
-
-</details>

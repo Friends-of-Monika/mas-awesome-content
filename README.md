@@ -10,6 +10,10 @@
 <details open>
 <summary><h2 style="display: inline-block">🔧 Submods</h2></summary>
 
+### ⭐ Featured Submods
+
+*Submods that are absolute must-have and many people would agree with that.*
+
 > [!WARNING]
 > Before you download any submods, make sure to *read the instructions* that
 > come with them! In particular, *please do not* download submods using the
@@ -21,11 +25,6 @@
 > mean* that the submod is out of date, broken or incompatible with latest MAS!
 > It simply indicates that it has been a while since the submod was last
 > updated and does not mean that it's not even worth looking at.
-
-
-### ⭐ Featured Submods
-
-*Submods that are absolute must-have and many people would agree with that.*
 
 #### [📥 Submod Updater Plugin](https://github.com/booplicate/MAS-Submods-SubmodUpdaterPlugin)
 

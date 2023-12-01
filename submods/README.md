@@ -19,13 +19,13 @@
 
 #### [📥 Submod Updater Plugin](https://github.com/booplicate/MAS-Submods-SubmodUpdaterPlugin)
 
-![](https://img.shields.io/github/downloads/booplicate/MAS-Submods-SubmodUpdaterPlugin/total?label=📥+downloads)
-![](https://img.shields.io/github/stars/booplicate/MAS-Submods-SubmodUpdaterPlugin?label=⭐+stars)
-![](https://img.shields.io/github/release-date/booplicate/MAS-Submods-SubmodUpdaterPlugin?label=⏳+latest)
+![downloads counter](https://img.shields.io/github/downloads/booplicate/MAS-Submods-SubmodUpdaterPlugin/total?label=📥+downloads)
+![stars counter](https://img.shields.io/github/stars/booplicate/MAS-Submods-SubmodUpdaterPlugin?label=⭐+stars)
+![release date](https://img.shields.io/github/release-date/booplicate/MAS-Submods-SubmodUpdaterPlugin?label=⏳+release)
 <br>
-![](https://img.shields.io/badge/⚗️-miscellaneous-green?color=purple)
-![](https://img.shields.io/badge/🔧-has_settings-green?color=lightgray)
-![](https://img.shields.io/badge/📥-updatable-yellow)
+![miscellaneous](https://img.shields.io/badge/⚗️-miscellaneous-purple)
+![has settings](https://img.shields.io/badge/🔧-has_settings-lightgray)
+![updatable](https://img.shields.io/badge/📥-updatable-yellow)
 
 A util submod that makes updating other submods easier. The util can
 automatically check updates for installed (and registered) submods, notify the
@@ -34,25 +34,25 @@ user about those updates, and even download and install them.
 
 #### [🏠 Custom Room Selection Pack](https://github.com/tw4449-s-MAS-Submods/tw4449-Custom-Room-Selection-Pack-Main-Repository)
 
-![](https://img.shields.io/github/downloads/tw4449-s-MAS-Submods/tw4449-Custom-Room-Selection-Pack-Main-Repository/total?label=📥+downloads)
-![](https://img.shields.io/github/stars/tw4449-s-MAS-Submods/tw4449-Custom-Room-Selection-Pack-Main-Repository?label=⭐+stars)
-![](https://img.shields.io/github/release-date/tw4449-s-MAS-Submods/tw4449-Custom-Room-Selection-Pack-Main-Repository?label=⏳+latest)
+![downloads counter](https://img.shields.io/github/downloads/tw4449-s-MAS-Submods/tw4449-Custom-Room-Selection-Pack-Main-Repository/total?label=📥+downloads)
+![stars counter](https://img.shields.io/github/stars/tw4449-s-MAS-Submods/tw4449-Custom-Room-Selection-Pack-Main-Repository?label=⭐+stars)
+![release date](https://img.shields.io/github/release-date/tw4449-s-MAS-Submods/tw4449-Custom-Room-Selection-Pack-Main-Repository?label=⏳+release)
 <br>
-![](https://img.shields.io/badge/🌳-custom_location-green)
-![](https://img.shields.io/badge/📥-updatable-yellow)
+![custom location](https://img.shields.io/badge/🌳-custom_location-green)
+![updatable](https://img.shields.io/badge/📥-updatable-yellow)
 
 This submod adds various custom rooms by tw4449 where you can spend time with Monika.
 
 
 #### [🎵 YouTube Music](https://github.com/Booplicate/MAS-Submods-YouTubeMusic)
 
-![](https://img.shields.io/github/downloads/Booplicate/MAS-Submods-YouTubeMusic/total?label=📥+downloads)
-![](https://img.shields.io/github/stars/Booplicate/MAS-Submods-YouTubeMusic?label=⭐+stars)
-![](https://img.shields.io/github/release-date/Booplicate/MAS-Submods-YouTubeMusic?label=⏳+latest)
+![downloads counter](https://img.shields.io/github/downloads/Booplicate/MAS-Submods-YouTubeMusic/total?label=📥+downloads)
+![stars counter](https://img.shields.io/github/stars/Booplicate/MAS-Submods-YouTubeMusic?label=⭐+stars)
+![release date](https://img.shields.io/github/release-date/Booplicate/MAS-Submods-YouTubeMusic?label=⏳+release)
 <br>
-![](https://img.shields.io/badge/🎼-music-lightblue)
-![](https://img.shields.io/badge/🔧-has_settings-lightgray)
-![](https://img.shields.io/badge/📥-updatable-yellow)
+![music](https://img.shields.io/badge/🎼-music-lightblue)
+![has settings](https://img.shields.io/badge/🔧-has_settings-lightgray)
+![updatable](https://img.shields.io/badge/📥-updatable-yellow)
 
 A submod which allows you to listen to music from youtube in the game.
 Compatible with Night Music.
@@ -60,13 +60,13 @@ Compatible with Night Music.
 
 #### [🌙 Night Music](https://github.com/multimokia/MAS-Submod-Nightmusic)
 
-![](https://img.shields.io/badge/📥_downloads-N/A-yellow)
-![](https://img.shields.io/github/stars/multimokia/MAS-Submod-Nightmusic?label=⭐+stars)
-![](https://img.shields.io/github/release-date/multimokia/MAS-Submod-Nightmusic?label=⏳+latest)
+![unknown downloads count](https://img.shields.io/badge/📥_downloads-N/A-yellow)
+![stars counter](https://img.shields.io/github/stars/multimokia/MAS-Submod-Nightmusic?label=⭐+stars)
+![release date](https://img.shields.io/github/release-date/multimokia/MAS-Submod-Nightmusic?label=⏳+release)
 <br>
-![](https://img.shields.io/badge/🎼-music-lightblue)
-![](https://img.shields.io/badge/🔧-has_settings-lightgray)
-![](https://img.shields.io/badge/📥-updatable-yellow)
+![music](https://img.shields.io/badge/🎼-music-lightblue)
+![has settings](https://img.shields.io/badge/🔧-has_settings-lightgray)
+![updatable](https://img.shields.io/badge/📥-updatable-yellow)
 
 Adds a new music folder (nightmusic, in the DDLC directory) in which you can put
 songs (.mp3 or .ogg) that Monika can pick from to play in the evening (assuming
@@ -75,13 +75,13 @@ there's no music playing already)
 
 #### [📜 All Scrollable Menus](https://github.com/multimokia/MAS-Submod-consistent-menus)
 
-![](https://img.shields.io/badge/📥_downloads-N/A-yellow)
-![](https://img.shields.io/github/stars/multimokia/MAS-Submod-consistent-menus?label=⭐+stars)
-![](https://img.shields.io/github/release-date/multimokia/MAS-Submod-consistent-menus?label=⏳+latest)
+![unknown downloads count](https://img.shields.io/badge/📥_downloads-N/A-yellow)
+![stars counter](https://img.shields.io/github/stars/multimokia/MAS-Submod-consistent-menus?label=⭐+stars)
+![release date](https://img.shields.io/github/release-date/multimokia/MAS-Submod-consistent-menus?label=⏳+release)
 <br>
-![](https://img.shields.io/badge/🖌️-UI_improvements-pink)
-![](https://img.shields.io/badge/🔧-has_settings-lightgray)
-![](https://img.shields.io/badge/📥-updatable-yellow)
+![user interface improvements](https://img.shields.io/badge/🖌️-UI_improvements-pink)
+![has settings](https://img.shields.io/badge/🔧-has_settings-lightgray)
+![updatable](https://img.shields.io/badge/📥-updatable-yellow)
 
 This submod replaces the standard Ren'Py menus with your choice of the
 following menus:
@@ -92,12 +92,12 @@ following menus:
 
 #### [👗 Auto Outfit Change](https://github.com/multimokia/MAS-Submod-Auto-Outfit-Change)
 
-![](https://img.shields.io/badge/📥_downloads-N/A-yellow)
-![](https://img.shields.io/github/stars/multimokia/MAS-Submod-Auto-Outfit-Change?label=⭐+stars)
-![](https://img.shields.io/github/release-date/multimokia/MAS-Submod-Auto-Outfit-Change?label=⏳+latest)
+![unknown downloads count](https://img.shields.io/badge/📥_downloads-N/A-yellow)
+![stars counter](https://img.shields.io/github/stars/multimokia/MAS-Submod-Auto-Outfit-Change?label=⭐+stars)
+![release date](https://img.shields.io/github/release-date/multimokia/MAS-Submod-Auto-Outfit-Change?label=⏳+release)
 <br>
-![](https://img.shields.io/badge/⚙️-gameplay-blue)
-![](https://img.shields.io/badge/📥-updatable-yellow)
+![gameplay](https://img.shields.io/badge/⚙️-gameplay-blue)
+![updatable](https://img.shields.io/badge/📥-updatable-yellow)
 
 This submod allows Monika to change her hairstyles, outfits, and accessories as
 she desires, fitting to the current weather and temperature (If Auto Atmos
